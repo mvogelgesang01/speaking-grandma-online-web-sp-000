@@ -13,7 +13,6 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma
-end
 
 if speak_to_grandma == "I LOVE GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
@@ -25,4 +24,5 @@ elsif speak_to_grandma "WHAT DID YOU EAT TODAY?"
   puts "NO, NOT SINCE 1938!"
 else speak_to_grandma "WHAT DID YOU EAT TODAY?"
   puts "NO, NOT SINCE 1938!"
+end
 end
